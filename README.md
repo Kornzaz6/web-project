@@ -69,5 +69,5 @@ The project reflects my skills in Frontend and Backend development, combining te
 
 ---
 
-> _"Striving to become a professional backend developer by continuous learning and teamwork."_ 🚀
+> _"Striving to become a professional Web developer by continuous learning and teamwork."_ 🚀
 
